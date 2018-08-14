@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--list_item.xml-->
+    <dimen name="list_item_text_size">18sp</dimen>
+    <dimen name="list_item_image_height">250dp</dimen>
+    <dimen name="list_item_text_padding">8dp</dimen>
+
+    <!--activity_main.xml-->
+    <dimen name="progress_bar_width">48dp</dimen>
+    <dimen name="progress_bar_height">48dp</dimen>
+
+    <!--activity_detail.xml-->
+    <dimen name="detailed_view_image_height">300dp</dimen>
+    <dimen name="detailed_view_text_margin">24dp</dimen>
+    <dimen name="detailed_view_text_size">18sp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="movie_data_height">65dp</dimen>
+    <dimen name="movie_data_paddingLeftRight">8dp</dimen>
+    <dimen name="movie_data_paddingTopBottom">8dp</dimen>
+    <dimen name="movie_data_text_size">18sp</dimen>
+
+    <dimen name="movie_title_text_size">26sp</dimen>
+    <dimen name="movie_title_padding">16dp</dimen>
+
+    <dimen name="movie_card_margin">8dp</dimen>
+
+    <dimen name="movie_basics_layout_padding">16dp</dimen>
+    <dimen name="movie_heading_padding_bottom">16dp</dimen>
+    <dimen name="movie_trailer_text_size">16sp</dimen>
+    <dimen name="movie_trailer_padding_right">6dp</dimen>
+
+
+</resources>
